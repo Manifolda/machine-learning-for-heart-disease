@@ -2,8 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-# mady by bowen xu
-
 # 固定随机种子
 np.random.seed(42)
 
