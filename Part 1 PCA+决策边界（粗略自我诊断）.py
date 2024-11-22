@@ -1,5 +1,4 @@
 import pandas as pd
-# made by bowen xu
 
 # 1. 数据预处理
 # 加载数据
